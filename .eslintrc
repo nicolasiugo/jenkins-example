@@ -1,10 +1,11 @@
 {
   "env": {
-    "browser": 1
+    "browser": 0,
+    "node": 1
   },
  
   "globals": {
-    "angular": 1
+    "module": 1
   },
  
   "rules": {
